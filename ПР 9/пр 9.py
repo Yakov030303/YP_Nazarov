@@ -22,6 +22,6 @@ for i in range(len(a)):
             x+=1
 print('Сумма:', z)
 print('Число:', x)
-with open('D:\НазаровЯА_УБ_22_viovd.txt','w') as t:
+with open('D:\НазаровЯА_УБ_22_vivod.txt','w') as t:
     t.write('Сумма элеменов: '+ " " + str(z) + '\n')
     t.write('Число: '+ " " + str(x) + '\n')
