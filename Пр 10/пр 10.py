@@ -6,7 +6,7 @@ from tkinter.ttk import Combobox
 
 
 window = Tk()
-window.title("Минаков Егор Константинович УБ-22")
+window.title("Назаров Яков Александрович УБ-22")
 window.geometry('470x200') 
 
 tab_control = ttk.Notebook(window)
